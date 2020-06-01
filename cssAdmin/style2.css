@@ -1,0 +1,37 @@
+/*sticky header position*/
+.sticky.is-sticky {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+}
+
+.maincontentt{
+
+	height:500px;
+	width:100%;
+}
+.menuslider
+{
+	height:500px;
+	width:85%;
+	margin: auto;
+	
+}
+.listmenuhome{
+	height:500px;
+	width:28%;
+	margin: auto;
+	float:left;
+}
+.listsliderhome{
+	height:500px;
+	width:65%;
+	margin: auto;
+	float: right;
+}
+
+
+
